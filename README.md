@@ -1,2 +1,2 @@
-# Spread-Fullstack-Developer-Desafios-DIO
-Projetos propostos no Bootcamp Spread e DIO
+# Desafios para o Spread Fullstack Developer
+Projetos propostos no Bootcamp Spread/DIO
